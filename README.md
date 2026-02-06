@@ -8,7 +8,7 @@ Vibe Coding Delivery: Self-service deploy portal + rollback
 ✅ Gate 4: Rollback → [Auto 30sec]
 
 DEPLOY YOUR SERVICE IN 90 SECONDS:
-1. Connect GitHub → Select platform-starter fork
+1. Connect GitHub → Select vibe coding system fork
 2. [Deploy to Staging] → Auto tests + traces
 3. [Promote to Prod] → GitOps + Rollback ready
 4. [View SLOs] → Live traces/metrics
